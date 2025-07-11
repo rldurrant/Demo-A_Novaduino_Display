@@ -1,5 +1,5 @@
 //*******10********20********30********40********50********60********70*******80********90*******100
-#define LABEL "NOVADUINO(R):Demo_Test-A_NovaduinoDisplayRevC_V1p1"  // File Name
+#define LABEL "NOVADUINO(R):Demo_A_NovaduinoDisplay_V1p1"  // File Name
 
 // IDE:Arduino 1.8.19
 // Date: 06/30/2025
